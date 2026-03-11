@@ -18,4 +18,4 @@ Database: MongoDB
 
 ## Author
 
-Viditi Joshi
+Viditi Joshi <3
